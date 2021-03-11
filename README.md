@@ -1,6 +1,7 @@
 # [![Firefox Send](./assets/icon.svg)](https://send.firefox.com/) Firefox Send
 
 [![CircleCI](https://img.shields.io/circleci/project/github/mozilla/send.svg)](https://circleci.com/gh/mozilla/send)
+[![Node.js CI](https://github.com/Krrishdhaneja/send/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/Krrishdhaneja/send/actions/workflows/node.js.yml)
 
 **Docs:** [FAQ](docs/faq.md), [Encryption](docs/encryption.md), [Build](docs/build.md), [Docker](docs/docker.md), [Metrics](docs/metrics.md), [More](docs/)
 
