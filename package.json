@@ -130,7 +130,7 @@
   },
   "dependencies": {
     "@dannycoates/express-ws": "^5.0.3",
-    "@fluent/bundle": "^0.13.0",
+    "@fluent/bundle": "^0.16.0",
     "@fluent/langneg": "^0.3.0",
     "@google-cloud/storage": "^5.1.2",
     "@peculiar/webcrypto": "^1.1.1",
